@@ -1,0 +1,22 @@
+{
+  "format": "kibi-airing-manifest",
+  "version": 1,
+  "file": "airing.json",
+  "size_bytes": 34597,
+  "sha256": "fb5164ebe66b783b7a2c21a76452daeb05d2faf5c91032c3f187a89d9dbc26cb",
+  "generated_at": "2026-10-21T22:42:27Z",
+  "valid_until": "2026-11-04T22:42:27Z",
+  "titles": 86,
+  "policy": "P-airing-open",
+  "attribution": [
+    {
+      "name": "TVmaze",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://www.tvmaze.com/"
+    }
+  ],
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "note": "Adapted from TVmaze data (https://www.tvmaze.com/): shows were matched to catalog ids; weekly slots, episode numbers and states were computed. This file is shared under the same licence."
+}
