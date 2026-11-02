@@ -2,11 +2,11 @@
   "format": "kibi-airing-manifest",
   "version": 1,
   "file": "airing.json",
-  "size_bytes": 35374,
-  "sha256": "243ec7d958429277e447c959b0b5fc9c6e768d0ca7341e6f4f3fc684a39c5a32",
-  "generated_at": "2026-10-26T17:50:53Z",
-  "valid_until": "2026-11-09T17:50:53Z",
-  "titles": 87,
+  "size_bytes": 34632,
+  "sha256": "131deb654d4dbea514b888c6c62a85cb94a2af88f233893f75b1e8fa56559872",
+  "generated_at": "2026-11-01T23:24:32Z",
+  "valid_until": "2026-11-15T23:24:32Z",
+  "titles": 86,
   "policy": "P-airing-open",
   "attribution": [
     {
